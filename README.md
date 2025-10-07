@@ -59,7 +59,8 @@ A web application built with Node.js and Express that provides a complete RESTfu
 
 🎯 **Live API:** [View on Render](https://natours-hp16.onrender.com/)  
 
-![Natours API Demo](https://github.com/DesislavPavlov/Natours-API/blob/main/readme_resources/Natours_Demo.gif?raw=true)
+![Natours API Demo](https://github.com/DesislavPavlov/natours/blob/main/readme_resources/Natours_Demo.gif?raw=true)
+![Natours API Demo](https://github.com/DesislavPavlov/natours/blob/main/readme_resources/NatoursAPI_Postman.gif?raw=true)
 
 ---
 
