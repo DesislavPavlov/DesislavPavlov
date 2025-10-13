@@ -64,6 +64,18 @@ A web application built with Node.js and Express that provides a complete RESTfu
 
 ---
 
+### 🐾 [Pokedex Lite – Express.js + React](https://github.com/DesislavPavlov/pokedex-lite)  
+> *"Gotta catch 'em all!"*  
+
+A lightweight, modern Pokémon catalog web app built with **Express.js + React**.  
+Created for [DiaDraw](https://www.facebook.com/diadrawltd/)'s **Coding Challenge 2025**.  
+
+**✨ Highlights:** Search Pokémon by name and view details, responsive design, local caching, and a clean minimalist UI for smooth browsing and performance.    
+
+![Pokedex Lite Preview](https://github.com/DesislavPavlov/pokedex-lite/blob/main/readme_resources/PokedexLite_Showcase.gif?raw=true)
+
+---
+
 ### 🌍 [World of Automobiles – ASP.NET MVC App](https://github.com/DesislavPavlov/WorldOfAutomobiles)  
 A responsive plain HTML, CSS, JS frontend for learning about cars.  
 🎯 **Live Demo:** [View on GitHub Pages](https://desislavpavlov.github.io/WorldOfAutomobiles/)  
